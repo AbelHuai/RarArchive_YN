@@ -1,0 +1,4 @@
+1.加入lib.tbd
+2.不支持arc
+3.需在other link flag 那个改成－ObjC
+4.不支持64位，所以目前不能上架
